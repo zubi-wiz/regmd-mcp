@@ -129,7 +129,7 @@ The MCP server connects to the regMD REST API at `https://regmd.dev/api/v1`.
 - **Free:** Device classification (basic)
 - **$99 Lifetime Deal:** Full access — classification, portfolio, alerts, pathways, timeline, compliance
 
-Get your API key at [regmd.dev](https://regmd.dev).
+API keys are not being issued yet, so the tools cannot reach the API today. This page will say so when they are.
 
 ## Environment Variables
 
